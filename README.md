@@ -1,0 +1,3 @@
+<h1 align="center" id="title">El-Patron</h1>
+
+<p id="description">This project is a desktop based application store app that sells clothes. There are 2 main accounts in the app: Customer and Manager. If the customer doesn't have an account they can create one. Once logged in the Customer can view the products and choose clothes to add to cart as well as read the reviews on the item viewed. They can also send a message to the Manager if they have any issues. The manager can view the customer's issues in order to try to solve them. Java and JavaFX must be installed in order to run the program.</p>
